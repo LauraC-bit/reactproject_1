@@ -1,0 +1,14 @@
+.blue-block {
+    background-color: lightblue;
+    box-shadow: 0 0 0 1px;
+    border-radius: 18px;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.flex-inblue {
+    display: flex;
+    flex-direction: column;
+    gap: 38px;
+}

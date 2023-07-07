@@ -1,0 +1,16 @@
+.container {
+  margin: 0 auto;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 38px;
+  max-width: 710px;
+  box-shadow: 0 0 0 1px;
+  border-radius: 38px;
+}
+
+.flex {
+  display: flex;
+  gap: 38px;
+}
